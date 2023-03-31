@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import Link from "../src/components/Link";
 
 export async function getStaticProps() {
@@ -20,12 +19,6 @@ export async function getStaticProps() {
 }
 
 export default function FAQPage({ faq }) {
-  //   const [faq, setFaq] = useState([]);
-
-  //   useEffect(() => {
-
-  //   });
-
   return (
     <div>
       <h1>Alura Cases - Páginas de Perguntas FAQ</h1>
