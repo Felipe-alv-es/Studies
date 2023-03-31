@@ -1,0 +1,5 @@
+Rafael,10,10,5,5
+jonas,10,10,5,5
+Rafael,10,10,5,5
+Gabrieel,10,10,5,5
+Rafael,10,10,5,5
